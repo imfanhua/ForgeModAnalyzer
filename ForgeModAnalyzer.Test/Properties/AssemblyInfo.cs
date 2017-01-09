@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("ForgeModAnalyzer.Test")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Open source project (MIT)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("FanHua")]
 [assembly: AssemblyProduct("ForgeModAnalyzer.Test")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © 2017 FanHua. All rights reserved.")]
+[assembly: AssemblyTrademark("FanHua")]
 [assembly: AssemblyCulture("")]
 
 //将 ComVisible 设置为 false 将使此程序集中的类型
